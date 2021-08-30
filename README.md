@@ -232,11 +232,11 @@ You need to create an Environmental varible to connect the database to this App 
 
 Then `persistent` to make it stick  
 >source ~/.bashrc
+>connect the DB via the export command" 
 
-Enter `env ` command to check for 
- `export DB_HOST=192.168.10.150:27017/posts`
-in the list of variables  
-if its there, enter the command else skip it, since the command is entered in the provision.sh file.
+`export DB_HOST=192.168.10.150:27017/posts`
+Type `env` to check if DB_HOST has been saved in the list of variables. 
+If its there, enter the command else skip it, since the command is entered in the provision.sh file.
 
 ### 3.2 Setting up the Database VM 
 
@@ -288,10 +288,11 @@ You should see a
 
 you should see a page called **Posts** with meaningless text .
 
-ONce you see the page load with meaningless text you have done it - Well done .
+Once you see the page load with meaningless text you have done it - Well done .
 
 
 
 
 
 
+![image](https://user-images.githubusercontent.com/17476059/131409334-578de0ea-ab94-4461-87e5-7f73c3b956f6.png)
