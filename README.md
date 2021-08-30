@@ -138,9 +138,9 @@ Cloud:
     Set up a Reverse Proxy so the website shows up on the ip: http://192.168.10.100/ (without port 3000 added)
  (Add picture )
 ## Task 3: Set up the mongodb database
-    - Environmental varible 
-    - Set up vagrant so, it creates two VMs
-    - Connect the Mongodb VM to the app VM to access the posts page  
+    - Environmental varible \
+    - Set up vagrant so, it creates two VMs \
+    - Connect the Mongodb VM to the app VM to access the posts page   \
  (Add picture )
 
 
