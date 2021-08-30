@@ -274,6 +274,8 @@ Check status
 `sudo systemctl status mongod`
 
 > Exit the DB vm and SSH into the APP 
+> 
+### 3.3 Connecting and npming the site 
 
 for the final steps enter:
  ```
